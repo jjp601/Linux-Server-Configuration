@@ -4,9 +4,9 @@
 The goal of this project was to set up a Linux distribution using an AWS Lightsail instance to host a web application. The web application being hosted is the [Car Catalog](https://github.com/jjp601/Car_Catalog_Project) project. 
 
 ### Details
-IP Address: 18.217.35.245
-SSH Port: 2200
-URL: http://18.217.35.245
+* IP Address: 18.217.35.245
+* SSH Port: 2200
+* URL: http://18.217.35.245
 
 ### Software and Packages
 * PostgreSQL
